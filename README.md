@@ -70,17 +70,18 @@ This Hackintosh guide is for Acer swift 3 2018 model with intel UHD 620 Graphics
 
 * Create the flash drive (16GB recommended) using transmac. (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjCs_e5yeTpAhUM7HMBHTISDM8QFjABegQIARAB&url=https%3A%2F%2Fwww.techspot.com%2Fdownloads%2F6397-transmac.html&usg=AOvVaw1dK-bUXha9u-ZVFV3juhXp)
 
-### 2.Bios Settings
+### 2. Bios Settings
 
 * This method only work with UEFI.
 * Set your SATA Mode to AHCI.
 * Disable Secure Boot.
 
-### 3.Boot the flash drive from the clover menu.
-### 4.Format and create a new partition with APFS.
-### 5.Before installing select the kext file from the other options.
+### 3. Boot the flash drive from the clover menu.
+### 4. Format and create a new partition with APFS.
+### 5. Before installing select the kext file from the other options.
 
 It may restart 3 times.
+
 
 
 
