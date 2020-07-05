@@ -87,8 +87,11 @@ It may restart 3 times.
 • Download the clover configurator from the official website <a href = "https://mackie100projects.altervista.org/download-clover-configurator/"> Clover </a>
 
 • Go to mountEFI and mount the partition.
+
 • Find the config.plist EFI/CLOVER/config.plist
+
 • open with clover
+
 • Go to graphics and inject the graphic card.
 
 
