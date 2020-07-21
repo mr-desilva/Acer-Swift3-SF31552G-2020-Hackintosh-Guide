@@ -18,9 +18,9 @@ This Hackintosh guide is for Acer swift 3 2018 model with intel UHD 620 Graphics
 
 • Wifi/Bluetooth : Intel AC-7265 Dual Band
 
-• Audio : ALC256
+• Audio : Realtek ALC256
 
-• SD Card Reader : Realtel USB2.0-CRW
+• SD Card Reader : Realtek USB2.0-CRW
 
 • Back-lit keyboard
 
@@ -32,6 +32,7 @@ This Hackintosh guide is for Acer swift 3 2018 model with intel UHD 620 Graphics
 • Wifi 
   - by default it's not working. Some kext files are required.
     You have to manually configure the BSSID and the Password.
+    
 • Bluetooth 
   - Working but some minor bugs.
   
@@ -60,7 +61,8 @@ This Hackintosh guide is for Acer swift 3 2018 model with intel UHD 620 Graphics
 • HDMI
 
 • Audio 
-  - Although the kext files are available for the ALC-256 for some reason didn't work for me.
+  - AppleAlc and voodoHDA not worked for some reason.
+  - Tested audio inject layouts 5, 11, 13, 14, 21, 22, 28, 56, 57, 66, 97 
   
 • Nvidia Graphics
 
